@@ -1,0 +1,6 @@
+<parameters>
+	<nbr_trains>120</nbr_trains>
+	<v_max>21.999999999999986</v_max>
+	<max_dwell>44.800000000000125</max_dwell>
+	<density_max_opt>4.999999999999989</density_max_opt>
+</parameters>

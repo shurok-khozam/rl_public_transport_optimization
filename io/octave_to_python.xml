@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+    <h_out_mean>150.2842</h_out_mean>
+    <h_out_std>1.4608</h_out_std>
+    <I_mean>143.1287</I_mean>
+    <I_std>245.0052</I_std>
+    <mu_mean>138.7206</mu_mean>
+    <mu_std>235.8257</mu_std>
+    <Q_mean>263.4221</Q_mean>
+    <Q_std>492.7751</Q_std>
+    <P_mean>189.3971</P_mean>
+    <P_std>384.8989</P_std>
+    <dwell_mean>29.3695</dwell_mean>
+    <dwell_std>11.4872</dwell_std>
+    <A_mean>635.6005</A_mean>
+    <A_std>1715.1506</A_std>
+</parameters>
